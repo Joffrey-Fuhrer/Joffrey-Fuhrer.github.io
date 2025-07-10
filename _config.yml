@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "A quest for a meaningful life"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Dr Joffrey Fuhrer"
+description              : "test test"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -91,8 +91,6 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook:
-  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -113,21 +111,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dr Joffrey Fuhrer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "TEST 2"
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a researcher in psychology and philosophy, interested by everything related to the good life, well-being and scientific methodology"
+  location         : "French located in Finland"
+  email            : "Joffrey.Fuhrer@uef.fi
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "OSF"
+      icon: "https://osf.io/zhw6y/"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
