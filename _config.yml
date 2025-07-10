@@ -134,7 +134,11 @@ author:
       icon: "fas fa-fw fa-flask"
       url: "https://osf.io/zhw6y/"
 
-
+# Footer override to remove black banner
+footer:
+  links: []
+  legal: ""
+  follow: false
 
 # Reading Files
 include:
