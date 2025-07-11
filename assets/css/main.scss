@@ -8,6 +8,16 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Ajout personnalisé ici :
+.masthead {
+  background-color: transparent !important;
+}
+
+.masthead__inner {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
 body {
   background-image: url('/assets/images/background.jpg');
   background-size: cover;
