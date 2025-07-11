@@ -114,7 +114,6 @@ author:
   bio              : "I am a researcher in psychology and philosophy, interested by everything related to the good life, well-being and scientific methodology"
   location         : "French located in Finland"
   email            : "Joffrey.Fuhrer@uef.fi"
-
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -131,11 +130,22 @@ author:
       url: "https://osf.io/zhw6y/"
 
 
-# Footer override to remove black banner
+# Footer 
 footer:
-  links: []
-  legal: ""
-  follow: false
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:Joffrey.Fuhrer@uef.fi"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://bsky.app/profile/joffreyfuhrer.bsky.social"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Joffrey-Fuhrer"
+    - label: "OSF"
+      icon: "fas fa-fw fa-flask"
+      url: "https://osf.io/zhw6y/"
+
 
 # Reading Files
 include:
