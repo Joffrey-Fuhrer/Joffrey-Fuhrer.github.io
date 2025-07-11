@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "A quest for a meaningful life"
 title_separator          : "-"
-subtitle                 : "testtestestestetestetstetstestestestest" 
+subtitle                 : "“There is much wisdom in the words of Nietzsche: “He who has a why to live for can bear almost any how.” Viktor Frankl, Man's Search for Meaning" 
 name                     : "Dr Joffrey Fuhrer"
 description              : #"test test"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
