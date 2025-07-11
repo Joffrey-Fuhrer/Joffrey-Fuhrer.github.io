@@ -113,7 +113,6 @@ author:
   avatar           : "/assets/images/image.jpg"  
   bio              : "I am a researcher in psychology and philosophy, interested by everything related to the good life, well-being and scientific methodology"
   location         : "French located in Finland"
-  email            : "Joffrey.Fuhrer@uef.fi"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
