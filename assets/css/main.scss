@@ -8,20 +8,19 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Ajout personnalisé ici :
-.masthead {
-  background-color: transparent !important;
-}
-
-.masthead__inner {
-  background-color: transparent !important;
-  box-shadow: none !important;
-}
-
 body {
   background-image: url('/assets/images/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+}
+
+.page__hero--overlay {
+  background-color: rgba(255, 255, 255, 0.8) !important; /* blanc légèrement transparent */
+  color: #111 !important; /* couleur du texte */
+}
+
+.page__hero--overlay::before {
+  background: none !important; /* supprime l’overlay sombre ou clair par défaut */
 }
