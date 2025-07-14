@@ -16,12 +16,14 @@ body {
   background-position: center;
 }
 
-.page__hero {
-  background-color: rgba(255, 255, 255, 0.8) !important; /* fond semi-transparent */
-  background-image: none !important; /* supprime l'image de fond par défaut */
-  color: #111 !important; /* texte noir */
+.page__hero, 
+.page__hero--overlay {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  background-image: none !important;
+  color: #111 !important;
 }
 
-.page__hero::before {
-  background: none !important; /* supprime l'overlay sombre ou clair */
+.page__hero::before, 
+.page__hero--overlay::before {
+  background: none !important;
 }
