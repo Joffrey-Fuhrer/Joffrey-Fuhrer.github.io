@@ -16,11 +16,12 @@ body {
   background-position: center;
 }
 
-.page__hero--overlay {
-  background-color: rgba(255, 255, 255, 0.8) !important; /* blanc légèrement transparent */
-  color: #111 !important; /* couleur du texte */
+.page__hero {
+  background-color: rgba(255, 255, 255, 0.8) !important; /* fond semi-transparent */
+  background-image: none !important; /* supprime l'image de fond par défaut */
+  color: #111 !important; /* texte noir */
 }
 
-.page__hero--overlay::before {
-  background: none !important; /* supprime l’overlay sombre ou clair par défaut */
+.page__hero::before {
+  background: none !important; /* supprime l'overlay sombre ou clair */
 }
