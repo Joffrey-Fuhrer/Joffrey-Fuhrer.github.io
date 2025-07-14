@@ -21,6 +21,9 @@ title                    : "A quest for a meaningful life"
 title_separator          : "-"
 subtitle                 : "“There is much wisdom in the words of Nietzsche: “He who has a why to live for can bear almost any how.” Viktor Frankl, Man's Search for Meaning" 
 name                     : "Dr Joffrey Fuhrer"
+include:
+  - .htaccess
+  - _pages
 description              : #"test test"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
