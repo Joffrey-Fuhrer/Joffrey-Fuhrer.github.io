@@ -1,4 +1,12 @@
 ---
+title: Publications
+permalink: /Publications/
+layout: page
+---
+
+
+
+---
 layout: default
 title: Publications
 permalink: /publications/
