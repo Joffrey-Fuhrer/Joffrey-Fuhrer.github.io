@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "A quest for a meaningful life 2"
+title                    : "A quest for a meaningful life"
 title_separator          : "-"
 subtitle                 : "“There is much wisdom in the words of Nietzsche: “He who has a why to live for can bear almost any how.” Viktor Frankl, Man's Search for Meaning" 
 name                     : "Dr Joffrey Fuhrer"
