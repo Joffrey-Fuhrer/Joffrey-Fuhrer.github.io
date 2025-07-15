@@ -17,10 +17,10 @@ layout: page
 
   <p><strong>Fuhrer, J.</strong>, & Cova, F. (2022). What makes a life meaningful? Folk intuitions about the content and shape of meaningful lives. <em><a href="https://www.tandfonline.com/doi/full/10.1080/09515089.2022.2046262" target="_blank" rel="noopener noreferrer"> Philosophical Psychology</a></em>, 1–33.</p>
 
-  <p><strong>Fuhrer, J.</strong>, Cova, F., Gauvrit, N., & Dieguez, S. (2021). Pseudoexpertise: A Conceptual and Theoretical Analysis. <em>Frontiers in Psychology, 12</em>, 732666.</p>
+  <p><strong>Fuhrer, J.</strong>, Cova, F., Gauvrit, N., & Dieguez, S. (2021). Pseudoexpertise: A Conceptual and Theoretical Analysis. <em><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.732666/full" target="_blank" rel="noopener noreferrer"> Frontiers in Psychology</a></em>, 12 732666.</p>
 
-  <p><strong>Fuhrer, J.</strong>, & Cova, F. (2020). “Quick and dirty”: Intuitive cognitive style predicts trust in Didier Raoult and his hydroxychloroquine-based treatment against COVID-19. <em>Judgment & Decision Making, 15</em>(6).</p>
+  <p><strong>Fuhrer, J.</strong>, & Cova, F. (2020). “Quick and dirty”: Intuitive cognitive style predicts trust in Didier Raoult and his hydroxychloroquine-based treatment against COVID-19. <em><a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/quick-and-dirty-intuitive-cognitive-style-predicts-trust-in-didier-raoult-and-his-hydroxychloroquinebased-treatment-against-covid19/23F213CB5D021A118F6D8CD278814121" target="_blank" rel="noopener noreferrer"> Judgment & Decision Making </a></em> , 15 (6).</p>
 
-  <p>(French) <strong>Fuhrer, J.</strong> (2020). «Sens de la vie (GP)», dans Maxime Kristanek (dir.), <em>L'Encyclopédie philosophique</em>.</p>
+  <p>(French) <strong>Fuhrer, J.</strong> (2020). «Sens de la vie (GP)», dans Maxime Kristanek (dir.), <em> <a href="https://encyclo-philo.fr/item/1678" targt="_blank" rel="noopener noreferrer"> L'Encyclopédie philosophique</a></em>.</p>
 
 </div>
