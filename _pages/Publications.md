@@ -6,7 +6,7 @@ layout: page
 
 ## Publications
 
-**Fuhrer, J.**, Martela, F., & Cova, F. (2024, under review). Separating Belief in Meaning of Life from Personal Experience of Meaning in Life: Different Relations with Religiosity and Well-being. *Preprint available on [PsyArXiv]https://osf.io/preprints/psyarxiv/4efwt_v1/*.
+**Fuhrer, J.**, Martela, F., & Cova, F. (2024, under review). Separating Belief in Meaning of Life from Personal Experience of Meaning in Life: Different Relations with Religiosity and Well-being. Preprint available on [PsyArXiv]https://osf.io/preprints/psyarxiv/4efwt_v1/.
 
 Thoma, M. V., Bernays, **F., Fuhrer**, J., Höltge, J., Salas Castillo, A. N., & Rohner, S. L. (2024). Predicting Intraindividual Change in Satisfaction with Life During COVID-19: A Prospective Study of Swiss Older Adults with Differing Levels of Childhood Adversity. *[Journal of Happiness Studies]https://link.springer.com/article/10.1007/s10902-024-00791-2, 25*(6), 73.
 
