@@ -4,21 +4,10 @@ title: "This game is a masterpiece"
 date: 2025-07-15
 ---
 
-<style>
-  .post-container {
-    max-width: 750px;
-    margin: auto;
-    padding: 2rem;
-    font-family: 'Helvetica Neue', sans-serif;
-    line-height: 1.7;
-    color: #333;
-    background-color: #fdfdfd;
-    box-shadow: 0 0 15px rgba(0,0,0,0.05);
-    border-radius: 8px;
-  }
+<h1>This game is a masterpiece</h1>
 
-  .post-container h1 {
-    font-size: 2.5rem;
-    color: #111;
-    text-align: center;
-    margin-bottom: 1rem;
+<p>This game grabbed me from the very first second. The art direction is beautiful, the music hits hard, and every moment feels intentional.</p>
+
+<p>It’s not just a game, it’s an emotional journey. You care about the world, the characters, and what’s at stake. Few games manage that.</p>
+
+<p>If you haven’t played it yet, do yourself a favor — it’s one of those rare experiences that stays with you long after the credits roll.</p>
