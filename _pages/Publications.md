@@ -13,7 +13,7 @@ layout: page
 
   <p><strong>Fuhrer, J.</strong>, & Cova, F. (2024, under review). The neglected dimension of meaning in life: having a positive impact on others. Preprint available on <em><a href="https://osf.io/preprints/psyarxiv/efk28_v1" target="_blank" rel="noopener noreferrer">PsyArXiv</a></em>.</p>
 
-  <p>Schöpfer, C., Abatista, A. G. F., <strong>Fuhrer, J.</strong>, & Cova, F. (2023). ‘Where there are villains, there will be heroes’: Belief in conspiracy theories as an existential tool to fulfill need for meaning. <em>Personality and Individual Differences, 200</em>, 111900.</p>
+  <p>Schöpfer, C., Abatista, A. G. F., <strong>Fuhrer, J.</strong>, & Cova, F. (2023). ‘Where there are villains, there will be heroes’: Belief in conspiracy theories as an existential tool to fulfill need for meaning. <em><a href="https://www.sciencedirect.com/science/article/pii/S0191886922004056" target="_blank" rel="noopener noreferrer">Personality and Individual Differences</a></em>.</p> 
 
   <p><strong>Fuhrer, J.</strong>, & Cova, F. (2022). What makes a life meaningful? Folk intuitions about the content and shape of meaningful lives. <em>Philosophical Psychology</em>, 1–33.</p>
 
