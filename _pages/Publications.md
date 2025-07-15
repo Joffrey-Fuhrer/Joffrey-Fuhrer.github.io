@@ -3,6 +3,7 @@ title: Publications
 permalink: /Publications/
 layout: page
 ---
+<div style="max-width: 750px; margin: auto; padding: 2rem; line-height: 1.7;">
 
 ## Publications
 
