@@ -7,11 +7,11 @@ layout: page
 
 ## Publications
 
-**Fuhrer, J.**, Martela, F., & Cova, F. (2024, under review). Separating Belief in Meaning of Life from Personal Experience of Meaning in Life: Different Relations with Religiosity and Well-being. Preprint available on [PsyArXiv]https://osf.io/preprints/psyarxiv/4efwt_v1/.
+**Fuhrer, J.**, Martela, F., & Cova, F. (2024, under review). Separating Belief in Meaning of Life from Personal Experience of Meaning in Life: Different Relations with Religiosity and Well-being. Preprint available on *[PsyArXiv](https://osf.io/preprints/psyarxiv/4efwt_v1/)*.
 
-Thoma, M. V., Bernays, **F., Fuhrer**, J., Höltge, J., Salas Castillo, A. N., & Rohner, S. L. (2024). Predicting Intraindividual Change in Satisfaction with Life During COVID-19: A Prospective Study of Swiss Older Adults with Differing Levels of Childhood Adversity. *[Journal of Happiness Studies]https://link.springer.com/article/10.1007/s10902-024-00791-2, 25*(6), 73.
+Thoma, M. V., Bernays, **F., Fuhrer**, J., Höltge, J., Salas Castillo, A. N., & Rohner, S. L. (2024). Predicting Intraindividual Change in Satisfaction with Life During COVID-19: A Prospective Study of Swiss Older Adults with Differing Levels of Childhood Adversity. *[Journal of Happiness Studies](https://link.springer.com/article/10.1007/s10902-024-00791-2)*, 25(6), 73.
 
-**Fuhrer, J.**, & Cova, F. (2024, under review). The neglected dimension of meaning in life: having a positive impact on others. *Preprint available on PsyArXiv*.
+**Fuhrer, J.**, & Cova, F. (2024, under review). The neglected dimension of meaning in life: having a positive impact on others. *Preprint available on [PsyArXiv](https://osf.io/preprints/psyarxiv/efk28_v1)*.
 
 Schöpfer, C., Abatista, A. G. F., **Fuhrer, J.**, & Cova, F. (2023). ‘Where there are villains, there will be heroes’: Belief in conspiracy theories as an existential tool to fulfill need for meaning. *Personality and Individual Differences, 200*, 111900.
 
