@@ -15,7 +15,7 @@ layout: page
 
   <p>Schöpfer, C., Abatista, A. G. F., <strong>Fuhrer, J.</strong>, & Cova, F. (2023). ‘Where there are villains, there will be heroes’: Belief in conspiracy theories as an existential tool to fulfill need for meaning. <em><a href="https://www.sciencedirect.com/science/article/pii/S0191886922004056" target="_blank" rel="noopener noreferrer">Personality and Individual Differences</a></em>.</p> 
 
-  <p><strong>Fuhrer, J.</strong>, & Cova, F. (2022). What makes a life meaningful? Folk intuitions about the content and shape of meaningful lives. <em>Philosophical Psychology</em>, 1–33.</p>
+  <p><strong>Fuhrer, J.</strong>, & Cova, F. (2022). What makes a life meaningful? Folk intuitions about the content and shape of meaningful lives. <em><a href="https://www.tandfonline.com/doi/full/10.1080/09515089.2022.2046262" target="_blank" rel="noopener noreferrer"> Philosophical Psychology</a></em>, 1–33.</p>
 
   <p><strong>Fuhrer, J.</strong>, Cova, F., Gauvrit, N., & Dieguez, S. (2021). Pseudoexpertise: A Conceptual and Theoretical Analysis. <em>Frontiers in Psychology, 12</em>, 732666.</p>
 
