@@ -16,7 +16,7 @@ permalink: /Ongoing-projects/
   <strong>Phase:</strong> Paper written, submitted, waiting for decision.<br>
   <strong>Content:</strong> This paper analyzes the case of subjective/hedonic and eudaimonic well-being in psychology—and its genealogy—as a paradigmatic example of how philosophical confusions have muddied the waters of well-being science. These confusions have led to a proliferation of conceptual frameworks and measurement tools. I argue that, despite significant advancements, the science of well-being suffers from a crisis of epistemic coherence, driven by two interrelated factors: (1) the uncritical adoption of philosophically dense terminology into empirical psychology, and (2) academic practices that incentivize theoretical novelty over clarity and consensus, thereby favoring interdisciplinary siloing.</p>
 
-  <p><strong>Fuhrer, J.</strong>, Jeancolas, C., Vantard, M., Nourrit, D., Thon, R., & Knoop, M. <em>Psychology of Interdisciplinarity</em>.<br>
+  <p><strong>Fuhrer, J.</strong>, Jeancolas, C., Vantard, M., Nourrit, D., Thon, R., & Knoop, M.  <em>Psychology of Interdisciplinarity</em>.<br>
   <strong>Phase:</strong> Data collection.<br>
   <strong>Content:</strong> This project, conducted in collaboration with the MITI (Mission for Cross-cutting and Interdisciplinary Initiatives) team at the CNRS, aims to draw a "psychological portrait" of interdisciplinary researchers—better understanding their experiences, quality of life, personality traits, and psychological dispositions. The approach is primarily quantitative and inferential, with an additional open-ended qualitative question. Data collection is ongoing, and we are targeting the entire CNRS researcher mailing list, ensuring a robust and representative dataset.</p>
 
