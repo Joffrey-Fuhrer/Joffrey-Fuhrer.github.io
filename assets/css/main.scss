@@ -32,3 +32,58 @@ body {
 .page__hero--overlay::before {
   background: none !important; /* supprime l’overlay */
 }
+
+
+@charset "utf-8";
+
+/* Choix des polices */
+$serif: 'Georgia', serif !default;
+$sans-serif: 'Helvetica Neue', sans-serif !default;
+
+$global-font-family: $serif !default;
+$header-font-family: $sans-serif !default;
+
+/* Tailles de police pour les titres et textes */
+$type-size-1: 2.8em !default; // gros titres
+$type-size-2: 2.2em !default;
+$type-size-3: 1.8em !default;
+$type-size-4: 1.4em !default;
+$type-size-5: 1.1em !default;
+$type-size-6: 1em !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes";
+
+/* Adapter la taille de base selon la taille d’écran */
+html {
+  font-size: 14px;
+
+  @include breakpoint($medium) {
+    font-size: 16px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px;
+  }
+}
+
+/* Style du titre principal */
+.site-title {
+  font-size: 3.5rem;
+  font-family: 'Georgia', serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Sous-titre */
+.site-subtitle {
+  font-size: 1.4rem;
+  font-style: italic;
+  font-family: 'Georgia', serif;
+  color: #aaa;
+}
