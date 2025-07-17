@@ -1,7 +1,7 @@
 ---
-layout: category
+layout: tag
 title: "Projets"
 permalink: /Measures/
-taxonomy: know
-term: projets
+taxonomy: tag
+term: know
 ---
