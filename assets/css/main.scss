@@ -88,3 +88,20 @@ html {
   color: #888;
 }
 
+/*Background-of-the-page-"ongoing project"*/
+
+body.page-ongoing-projects {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+body.page-ongoing-projects a {
+  color: #66ccff !important; /* liens bleu clair */
+}
+
+body.page-ongoing-projects h2,
+body.page-ongoing-projects strong {
+  color: #fff !important;
+}
+
+
