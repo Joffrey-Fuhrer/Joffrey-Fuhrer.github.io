@@ -92,16 +92,15 @@ html {
 
 body.page-ongoing-projects {
   background-color: #000 !important;
+  background-image: none !important; /* désactive l’image de fond globale */
   color: #fff !important;
 }
 
 body.page-ongoing-projects a {
-  color: #66ccff !important; /* liens bleu clair */
+  color: #66ccff !important;
 }
 
 body.page-ongoing-projects h2,
 body.page-ongoing-projects strong {
   color: #fff !important;
 }
-
-
