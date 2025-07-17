@@ -33,18 +33,20 @@ body {
   background: none !important; /* supprime l’overlay */
 }
 
-
 @charset "utf-8";
 
+/* Import de la police Merriweather depuis Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
 /* Choix des polices */
-$serif: 'Georgia', serif !default;
+$serif: 'Merriweather', serif !default;
 $sans-serif: 'Helvetica Neue', sans-serif !default;
 
 $global-font-family: $serif !default;
 $header-font-family: $sans-serif !default;
 
 /* Tailles de police pour les titres et textes */
-$type-size-1: 2.8em !default; // gros titres
+$type-size-1: 2.8em !default; 
 $type-size-2: 2.2em !default;
 $type-size-3: 1.8em !default;
 $type-size-4: 1.4em !default;
@@ -74,16 +76,17 @@ html {
 /* Style du titre principal */
 .site-title {
   font-size: 1.2rem;
-  font-family: 'Georgia', serif;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: 0.5px;
 }
 
 /* Sous-titre */
 .site-subtitle {
-  font-size: 1rem;
+  font-size: 0.6rem;
   font-style: italic;
-  font-family: 'Georgia', serif;
-  color: #aaa;
+  font-family: 'Merriweather', serif;
+  color: #888;
 }
+
