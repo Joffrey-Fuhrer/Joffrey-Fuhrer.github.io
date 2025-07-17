@@ -2,6 +2,7 @@
 layout: post
 title:  "Quote"
 date: 2011-12-31
+tags: [know]
 ---
 
 <div style="font-family: 'Georgia', serif; background-color: #f9f6f1; padding: 2rem; border: 1px solid #d6ccc2; max-width: 700px; margin: auto; box-shadow: 0 0 10px #ccc;">
