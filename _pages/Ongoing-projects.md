@@ -4,14 +4,6 @@ title: "Ongoing projects"
 permalink: /Ongoing-projects/
 ---
 
-<style>
-  body {
-    background-color: #000;
-    color: #fff;
-  }
-</style>
-
-
 <div style="max-width: 1100px; width: 90%; margin: auto; padding: 2rem; line-height: 1.7;">
 
   <h2>Ongoing Projects</h2>
