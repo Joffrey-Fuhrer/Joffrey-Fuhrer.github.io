@@ -271,6 +271,13 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: category
+  permalinks:
+    category: /categories/:name/
 
 # HTML Compression
 # - https://jch.penibelst.de/
