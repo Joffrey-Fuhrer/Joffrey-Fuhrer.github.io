@@ -240,6 +240,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-archives
 
 
 # Archives
