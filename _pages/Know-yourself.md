@@ -1,5 +1,5 @@
 ---
-title: "Posts in category 'know'"
+title: "Know yourself"
 layout: default
 permalink: /categories/know/
 ---
