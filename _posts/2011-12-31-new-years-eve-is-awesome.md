@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tag
 title:  "Quote"
 date: 2011-12-31
 tags: [know]
