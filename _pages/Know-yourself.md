@@ -1,10 +1,8 @@
 ---
-title: "Know yourself"
-layout: tag
-permalink: /Measures/
-taxonomy: tag
-term: know
-author_profile: true
+title: "Posts in category"
+layout: category
+permalink: /categories/know/
+category: know
 ---
 
 
