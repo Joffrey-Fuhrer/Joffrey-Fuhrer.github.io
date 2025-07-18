@@ -2,5 +2,6 @@
 layout: tag
 title: "Projets"
 permalink: /Measures/
-tag: know
+taxonomy: tag
+term: know
 ---
