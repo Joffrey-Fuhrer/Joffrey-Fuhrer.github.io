@@ -1,7 +1,10 @@
 ---
+title: "Know yourself"
 layout: tag
-title: "Projets"
 permalink: /Measures/
 taxonomy: tag
 term: know
+author_profile: true
 ---
+
+
