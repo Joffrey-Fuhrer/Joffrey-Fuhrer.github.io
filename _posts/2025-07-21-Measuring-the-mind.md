@@ -2,13 +2,6 @@
 categories: know
 ---
 
-
-
-
----
-categories: thoughts
----
-
 <div style="font-family: 'Georgia', serif; background-color: rgba(0, 0, 0, 0.6); padding: 2rem; border: 1px solid #444; max-width: 700px; margin: auto; box-shadow: 0 0 10px #000;">
   <h2 style="text-align: center; font-variant: small-caps; color: #ffffff;">Measuring the mind</h2>
 
