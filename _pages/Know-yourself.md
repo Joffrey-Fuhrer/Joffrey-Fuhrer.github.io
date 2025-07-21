@@ -1,10 +1,10 @@
 ---
 title: "Know yourself"
 layout: default
-permalink: /categories/thoughts/
+permalink: /categories/know/
 ---
 
-<h1>Posts in category: thoughts</h1>
+<h1>Posts in category: know</h1>
 
 <ul>
   {% for post in site.categories.know %}
