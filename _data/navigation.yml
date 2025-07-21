@@ -7,5 +7,5 @@ main:
     url: /Curriculum-vitae/
   - title: "Know yourself (posts)"
     url: /categories/know/
-- title: "Personal thoughts (posts)"
+  - title: "Personal thoughts (posts)"
     url: /categories/thoughts/
