@@ -3,7 +3,7 @@ categories: know
 ---
 
 <div style="font-family: 'Georgia', serif; background-color: rgba(0, 0, 0, 0.6); padding: 2rem; border: 1px solid #444; max-width: 700px; margin: auto; box-shadow: 0 0 10px #000;">
-  <h2 style="text-align: center; font-variant: small-caps; color: #ffffff;">Measuring the mind</h2>
+  <h2 style="text-align: center; font-variant: small-caps; color: #ffffff;">The belief in the meaning of life</h2>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
 Something that got me hooked on psychology, and still continues to fascinate me to this day, is that we can measure what’s going on in our extremely complex minds, from beliefs (in conspiracy theories, for example), traits (personality), attitudes (our political tendencies), emotions (whether we experience gratitude, joy or contempt), and so on. Obviously, not every measure is perfect. But the mere idea that those things can even be approximately measured and become the object of methodical and rigorous investigation is baffling.  </p>
