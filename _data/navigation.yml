@@ -5,5 +5,7 @@ main:
     url: /Ongoing-projects/
   - title: "Curriculum vitæ"
     url: /Curriculum-vitae/
-  - title: "Know yourself"
+  - title: "Know yourself (posts)"
     url: /categories/know/
+- title: "Personal thoughts (posts)"
+    url: /categories/thoughts/
