@@ -1,7 +1,4 @@
 ---
-layout: post
-title: "This game is a masterpiece"
-date: 2025-07-15
 categories: know
 ---
 
