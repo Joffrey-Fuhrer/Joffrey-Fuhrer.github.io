@@ -11,6 +11,7 @@
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
     One of the problems we often face in psychology, and also in neuroscience, is that concepts are frequently approached naively, with significant bias or presuppositions about what they actually refer to, and without a clear idea that they are actually mongrel concepts. 
+    
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
