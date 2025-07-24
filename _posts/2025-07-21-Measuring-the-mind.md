@@ -13,13 +13,13 @@ Something that got me hooked on psychology, and still continues to fascinate me 
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
-So when I started my PhD, one of the many things I wanted to achieve was to validate a questionnaire to measure something. I didn’t know what yet, but my plan was to acquire the necessary skills to do that. Oh, it didn’t have to be as deep and complex as the NEO PI-R, one of the best available tools to measure personality to date. I wanted it to be modest, but functional and efficient. So when my PI suggested we could empirically investigate the topic of the belief in the meaning of life, that is, what this belief is actually about, I immediately jumped at the opportunity of such a great idea, and told myself it was the perfect time to achieve this goal of mine. But also, mainly because there was no existing scale yet to measure this belief, and we needed one to test our hypothesis.  </p>
+So when I started my PhD, one of the many things I wanted to achieve was to validate a questionnaire to measure something. I didn’t know what yet, but my plan was to acquire the necessary skills to do that. Oh, it didn’t have to be as deep and complex as the NEO PI-R, one of the best available tools to measure personality to date. I wanted it to be modest, but functional and efficient. So when my PI suggested we could empirically investigate the topic of the belief in the meaning of life, that is, what this belief is actually about, I immediately jumped at the opportunity of such a great idea, and told myself it was the perfect time to achieve this goal of mine, because there was no existing scale yet to measure this belief, and we needed one to test our hypothesis (in our case, that the belief in the meaning of life is linked to reliogiosity, and spirituality, while finding that one's own life has meaning, is more related to well-being).  </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
-It was very challenging, as I’m not a genius of any kind, and developing a measurement tool requires very specific and hard-to-master skills. But while I may not be a genius, I’m filled with passion and motivation, and I’m a hard worker (not to say stubborn). That’s why I like to see myself as a knowledge artisan.  </p>
+It was very challenging, as I’m not a genius of any kind, and developing a measurement tool requires very specific and hard-to-master skills. But while I may not be a genius, I’m filled with passion and motivation, and I’m a hard worker (not to say stubborn).   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
-I had to read linear algebra (I may have forgot everything since then), and guide for what is called exploratory factor analysis, and confirmatory factor analysis, and to learn how to implement that correctly in R language. It was all exhausting, and depressing at times, but also very rewarding, as it was getting me closer to one of my goals.
+I like to see myself as a knowledge artisan, using all tools of some sort to create something. And in this case, I had to read linear algebra (I may have forgot everything since then), and guide for what is called exploratory factor analysis, and confirmatory factor analysis, and to learn how to implement that correctly in R language. It was all exhausting, and depressing at times, but also very rewarding.
   </p>
 
   <div style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
@@ -46,7 +46,7 @@ I had to read linear algebra (I may have forgot everything since then), and guid
   <p><strong>(R)</strong> = items reverse-coded.</p>
 
   <p>
-    As I’ve said, it is indeed very modest. But now, we have a way to measure whether individuals believe in the meaning of life, and to conduct studies to better understand the role this plays in our psychology and our culture.
+  As I’ve said, it is indeed very modest. But to arrive at this result, we had to go through many different steps, and those five items are the 'survivors' of a much longer list of items that did not make the cut. Now, however, we have a way to measure whether individuals believe in the meaning of life, and to conduct studies to better understand the role this plays in our psychology and our culture.
   </p>
 
   <p>
