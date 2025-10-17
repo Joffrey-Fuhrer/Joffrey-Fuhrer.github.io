@@ -7,8 +7,7 @@ layout: page
 
   <h2>Publications</h2>
 
-  <p><strong>Fuhrer, J.</strong>, Martela, F., & Cova, F. (2026). Separating belief in meaning of life from the personal experience of meaning in life: Different relations with religiosity and well-being. <em>Personality and Individual Differences</em>, 248, 113497. <a href="https://doi.org/10.1016/j.paid.2025.113497" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.paid.2025.113497</a>
-</p>
+  <p><strong>Fuhrer, J.</strong>, Martela, F., & Cova, F. (2026). Separating belief in meaning of life from the personal experience of meaning in life: Different relations with religiosity and well-being. <em><a href="https://doi.org/10.1016/j.paid.2025.113497" target="_blank" rel="noopener noreferrer">Personality and Individual Differences</a></em>, 25(6), 73.</p>
 
   <p>Thoma, M. V., Bernays, <strong>F., Fuhrer</strong>, J., Höltge, J., Salas Castillo, A. N., & Rohner, S. L. (2024). Predicting Intraindividual Change in Satisfaction with Life During COVID-19: A Prospective Study of Swiss Older Adults with Differing Levels of Childhood Adversity. <em><a href="https://link.springer.com/article/10.1007/s10902-024-00791-2" target="_blank" rel="noopener noreferrer">Journal of Happiness Studies</a></em>, 25(6), 73.</p>
 
