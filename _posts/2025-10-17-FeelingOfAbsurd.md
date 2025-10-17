@@ -47,3 +47,4 @@ categories: thoughts
 
   <p style="font-size: 1rem; font-style: italic; text-align: right; color: #665544;">— Joffrey Fuhrer</p>
 </div>
+
