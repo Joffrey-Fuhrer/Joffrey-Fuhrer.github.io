@@ -7,8 +7,7 @@ layout: page
 
   <h2>Publications</h2>
 
-
-    <p><strong>Fuhrer, J.</strong>, Myling Bezat, M., &amp; Cova, F. (Preprint). <em>The everyday experience of meaning in life: an empirical perspective on what it is like to experience one’s life as meaningful or meaningless</em>. Preprint available on <em><a href="https://osf.io/preprints/psyarxiv/8g7as_v1" target="_blank" rel="noopener noreferrer">PsyArXiv</a></em>.</p>
+  <p><strong>Fuhrer, J.</strong>, Myling Bezat, M., &amp; Cova, F. (Preprint). <em>The everyday experience of meaning in life: an empirical perspective on what it is like to experience one’s life as meaningful or meaningless</em>. Preprint available on <em><a href="https://osf.io/preprints/psyarxiv/8g7as_v1" target="_blank" rel="noopener noreferrer">PsyArXiv</a></em>.</p>
 
   <p><strong>Fuhrer, J.</strong>, Martela, F., & Cova, F. (2026). Separating belief in meaning of life from the personal experience of meaning in life: Different relations with religiosity and well-being. <em><a href="https://doi.org/10.1016/j.paid.2025.113497" target="_blank" rel="noopener noreferrer">Personality and Individual Differences</a></em>, 248, 113497. </p>
 
