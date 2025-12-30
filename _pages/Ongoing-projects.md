@@ -10,11 +10,43 @@ permalink: /Ongoing-projects/
 
   <h2>Ongoing Projects</h2>
 
-  <div style="border: 1px solid #ccc; padding: 1.5rem; margin-bottom: 2rem; border-radius: 10px; background-color: rgba(255, 255, 255, 0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
-    <p><strong>Fuhrer, J.</strong>, Bezat, M., & Cova, F. <em>The everyday experience of meaning in life: an empirical perspective on what it is like to experience one’s life as meaningful or meaningless</em>. (Mixed methods: two qualitative studies and one quantitative study; paper written but not submitted yet.)<br>
-    <strong>Phase:</strong> Written, not ready to be submitted.<br>
-    <strong>Content:</strong> We all sometimes experience moments where our life feels meaningful or meaningless. But in which situations do these experiences arise? How do we feel? Our findings suggest that the experience of meaningfulness is about others: it occurs in situations where we are bonding with others, having a positive impact on our surroundings or on society, and helping others. The positive emotions associated with this experience include being moved, feeling part of a whole, being touched, feeling grateful, proud, motivated, experiencing awe, and feeling enlightened. Conversely, we tend to feel that our life is meaningless in situations where we feel unfulfilled, lack connections, feel useless, struggle with our mental health, experience negative emotions, or face a lack of direction in life. The negative emotions include feeling lost, sad, powerless, stressed, overwhelmed, and devastated.</p>
-  </div>
+<div style="border: 1px solid #ccc; padding: 1.5rem; margin-bottom: 2rem; border-radius: 10px; background-color: rgba(255, 255, 255, 0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
+  <p>
+    <strong>Fuhrer, J.</strong>, Van Acker, M., Saarelainen, S.M.
+    <em>Existential Urban Obstacles (EUC) to Well-Being</em><br>
+    <strong>Phase:</strong> Data collection
+  </p>
+
+  <p><strong>Content:</strong></p>
+
+  <p>This project will undergo three distinct phases:</p>
+  <ul>
+    <li>Data collection in the USA (500 representative participants).</li>
+    <li>Data collection in Joensuu, thanks to a collaboration with the Joensuu city council, which will facilitate the distribution of the questionnaire (expected participants: at least 500).</li>
+    <li>Data collection in Antwerp.</li>
+  </ul>
+
+  <p>
+    Is the presence of communal places, defined as places where people can socialize and foster social engagement, in one’s neighborhood a predictor of subjective well-being and meaning in life? And is this association mediated by basic psychological need satisfaction? To explore this question and limit potential confounding variables, we will test a more complex model.
+  </p>
+
+  <p>
+    Specifically, we will examine whether the subjective perception of (i) the presence of communal places, (ii) perceived neighborhood disorder, and (iii) neighborhood trustworthiness predicts subjective well-being, operationalized as life satisfaction and the frequency of positive and negative emotions, as well as the subjective experience of the dimensions constituting the psychological experience of meaning in life, operationalized as purpose, coherence, significance, and impact.
+  </p>
+
+  <p>
+    To better understand the underlying mechanisms, we will also examine whether these associations are mediated by basic psychological need satisfaction, operationalized as the fulfillment of autonomy, competence, and relatedness. In addition, we will test whether individuals experiencing greater economic distress report fewer communal places in their neighborhood, and whether this may help explain why they tend to experience lower subjective well-being and less meaning in life compared to economically advantaged individuals.
+  </p>
+
+  <p>
+    Finally, we aim to determine whether the presence of communal places is a good predictor of neighborhood trustworthiness and neighborhood disorder.
+  </p>
+
+  <p>
+    To this aim, we will use a cross-sectional survey of adult participants. In this survey, we implemented three self-report measures of neighborhood perceptions: presence of communal places, neighborhood disorder, and trustworthiness. We also included one self-report measure of economic perception, namely perceived economic adversity. Finally, we included several measures of well-being, including basic psychological need satisfaction (autonomy, competence, and relatedness), meaning in life (purpose, coherence, significance, and a sense of having a positive impact), and subjective well-being (life satisfaction and the frequency of positive and negative emotions).
+  </p>
+</div>
+
 
   <div style="border: 1px solid #ccc; padding: 1.5rem; margin-bottom: 2rem; border-radius: 10px; background-color: rgba(255, 255, 255, 0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
     <p><strong>Fuhrer, J.</strong> <em>Fifty Shades of Well-being: The Cost of Confusion.</em><br>
