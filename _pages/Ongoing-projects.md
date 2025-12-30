@@ -12,11 +12,12 @@ permalink: /Ongoing-projects/
 
 <div style="border: 1px solid #ccc; padding: 1.5rem; margin-bottom: 2rem; border-radius: 10px; background-color: rgba(255, 255, 255, 0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
   <p>
+  <div style="border: 1px solid #ccc; padding: 1.5rem; margin-bottom: 2rem; border-radius: 10px; background-color: rgba(255, 255, 255, 0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
+  <p>
     <strong>Fuhrer, J.</strong>, Van Acker, M., Saarelainen, S.M.
     <em>Existential Urban Obstacles (EUC) to Well-Being</em><br>
-    <strong>Phase:</strong> Data collection
+    <strong>Phase:</strong> Data collection.
   </p>
-
   <p><strong>Content:</strong></p>
 
   <p>This project will undergo three distinct phases:</p>
