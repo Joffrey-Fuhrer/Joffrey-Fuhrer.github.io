@@ -14,9 +14,17 @@ permalink: /Ongoing-projects/
   <p>
   <div style="border: 1px solid #ccc; padding: 1.5rem; margin-bottom: 2rem; border-radius: 10px; background-color: rgba(255, 255, 255, 0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
   <p>
+<div style="border: 1px solid #ccc; padding: 1.5rem; margin-bottom: 2rem; border-radius: 10px; background-color: rgba(255, 255, 255, 0.3); box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
+  <p>
     <strong>Fuhrer, J.</strong>, Van Acker, M., Saarelainen, S.M.
     <em>Existential Urban Obstacles (EUC) to Well-Being</em><br>
     <strong>Phase:</strong> Data collection.
+  </p>
+
+  <p>
+    <em>
+      This research is supported by EU Horizon Europe under the Marie Skłodowska-Curie COFUND grant No 101081327 YUFE4Postdocs.
+    </em>
   </p>
   <p><strong>Content:</strong></p>
 
