@@ -6,7 +6,7 @@ permalink: /Curriculum-vitae/
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1XeZdXgaQAF9xOq-DZV3SO9MJ58cNmQzo/view" />
+    <meta http-equiv="refresh" content="0; url=[https://drive.google.com/file/d/1XeZdXgaQAF9xOq-DZV3SO9MJ58cNmQzo/view](https://drive.google.com/file/d/111SkLfIfjYBjFdQd_79lMJ6IjDdsRLaa/view?usp=sharing)" />
     <link rel="canonical" href="https://drive.google.com/file/d/1XeZdXgaQAF9xOq-DZV3SO9MJ58cNmQzo/view" />
   </head>
   <body>
