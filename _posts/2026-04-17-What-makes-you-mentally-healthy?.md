@@ -5,31 +5,27 @@ categories: know
   <h2 style="text-align: center; font-variant: small-caps; color: #3e2f1c;">What Are the Ingredients of Positive Mental Health?</h2>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
-    If you were asked to list the ingredients of positive mental health, what would come to mind? I would probably start by asking whether it is synonymous with psychological well-being — and, if pressed for a quick answer, treat them as the same thing. My intuition: a good mental life involves experiencing one's existence as <em>meaningful</em>, feeling broadly <em>happy</em>, having a stable mood, and a sense of life satisfaction.
+    If you were to think about what the ingredients of positive mental health are, what would come to mind? I personally would start by pondering whether positive mental health is synonymous with psychological well-being. But if I really HAD to give an answer without any prior clarification, I would probably treat them as synonyms, and say that according to my knowledge, one needs to experience one's life as meaningful, broadly understood as having a purpose leading to a sense of significance and that we are making a difference, alongside happiness, stable mood, and life satisfaction.
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
-    A paper published a few days ago — which I discovered through a post by Todd Kashdan, one of its authors — tackled this question head-on. Using a methodology called the <em>Delphi method</em>, the researchers gathered 122 experts from various fields working on well-being, and asked: amid all the disagreement in this field, can we find consensus on what positive mental health actually <em>is</em>?
+    A paper that came out a few days ago, that I discovered thanks to a post by Todd Kashdan (who is among the authors) has done a brilliant thing: using a methodology called Delphi to gauge the convictions of a broad range of experts working on this topic (122 from various fields), and see if consensus can be reached amid all the disagreement (and there is plenty!!): 🔗 <a href="https://www.nature.com/articles/s44220-026-00617-5" style="color: #3e2f1c;">Link to the article</a>
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
-    Because there is plenty of disagreement. The field is populated by competing frameworks — "eudaimonic well-being," "subjective well-being," "flourishing," "existential well-being" — each with its own measures and dimensions. This diversity is both the richness and the weakness of the field: it is hard to navigate even for experts, let alone for the policymakers, counsellors, and managers who need science to inform their work.
+    We find many different existing approaches within the field of well-being: "eudaimonic well-being", "subjective well-being", "flourishing", "existential well-being", all filled with many MANY different measures and dimensions. This is a double-edged sword that constitutes both the richness and vitality of this field, but also its greatest weakness, as it is hard to navigate for experts, and even more so for non-experts who need the support of science for their endeavors: public policy, counsellors, management, and so on.
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
-    The most interesting finding: instead of dwelling on disagreements, the authors identified what experts <em>actually agree on</em>. They narrowed the list down to <strong>nine dimensions</strong>, each reaching over 90% consensus — including <em>meaning and purpose</em>, <em>life satisfaction</em>, <em>self-acceptance</em>, <em>connection</em>, <em>autonomy</em>, and <em>happiness</em>.
+    And here comes the most interesting part of this article: instead of focusing on disagreements, what are the key ingredients experts in the field would actually agree on? Through their methodology, the authors narrowed down this list to nine dimensions (each exceeding 90% agreement), including "meaning and purpose", "life satisfaction", "self-acceptance", "connection", "autonomy", and "happiness"! Happy to see I was not too far from this consensus!
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
-    I was pleased to find my intuition wasn't too far off — but also genuinely challenged. I had been reluctant to include <em>connection</em>, <em>autonomy</em>, and <em>competence</em> (the experience of effectiveness and mastery) as core components, since I tend to see them as basic psychological needs — predictors of mental health rather than ingredients of it. So I now have new food for thought.
+    I was feeling reluctant to include connection and autonomy, alongside competence (the experience of effectiveness and mastery), as I consider them basic psychological needs, and therefore predictors rather than core components of positive mental health. So now I have new food for thought.
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
-    Whenever work like this comes out, I feel genuinely excited. It means the science of well-being is moving toward greater clarity and consensus — pushing back against its internal fragmentation and the overproliferation of concepts and tools. That, to me, is progress worth celebrating.
-  </p>
-
-  <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
-    🔗 <a href="https://www.nature.com/articles/s44220-026-00617-5" style="color: #3e2f1c;">Link to the article</a>
+    Whenever such great work comes out, I am always thrilled, as it means the science of well-being is moving in the right direction toward greater consensus and clarity, pushing back against its internal confusion and the overproliferation of conceptualisations and measurement tools!
   </p>
 
   <p style="font-size: 1rem; font-style: italic; text-align: right; color: #665544;">— Joffrey Fuhrer</p>
