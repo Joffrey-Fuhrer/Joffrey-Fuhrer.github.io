@@ -1,5 +1,5 @@
 ---
-categories: thoughts
+categories: know
 ---
 <div style="font-family: 'Georgia', serif; background-color: #f9f6f1; padding: 2rem; border: 1px solid #d6ccc2; max-width: 700px; margin: auto; box-shadow: 0 0 10px #ccc;">
   <h2 style="text-align: center; font-variant: small-caps; color: #3e2f1c;">What Are the Ingredients of Positive Mental Health?</h2>
