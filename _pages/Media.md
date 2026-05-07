@@ -2,7 +2,9 @@
 permalink: /Media/
 title: "Media highlighting my work."
 ---
+<div style="max-width: 700px; margin: auto; padding: 2rem; font-family: Georgia, serif; line-height: 1.7; color: #222;">
 
+  <p><strong>Media highlighting my work.</strong></p>
   <p>
     <em>New Scientist</em>. "<a href="https://www.newscientist.com/article/2513875-how-to-live-a-meaningful-life-according-to-science/" style="color: #1a0dab;">How to Live a Meaningful Life, According to Science</a>." Article based on an interview and my research.
   </p>
