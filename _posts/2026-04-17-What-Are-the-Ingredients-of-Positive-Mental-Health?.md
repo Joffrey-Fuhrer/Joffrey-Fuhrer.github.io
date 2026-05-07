@@ -10,7 +10,7 @@ categories: know
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
-    A paper that came out a few days ago, that I discovered thanks to a post by <a style="color: #aad4ff; text-decoration: underline;">Todd Kashdan</a> (who is among the authors) has done a brilliant thing: using a methodology called Delphi to gauge the convictions of a broad range of experts working on this topic (122 from various fields), and see if consensus can be reached amid all the disagreement (and there is plenty!!).
+    A paper that came out a few days ago, that I discovered thanks to a post by Todd Kashdan (who is among the authors) has done a brilliant thing: using a methodology called Delphi to gauge the convictions of a broad range of experts working on this topic (122 from various fields), and see if consensus can be reached amid all the disagreement (and there is plenty!!).
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
@@ -30,7 +30,7 @@ categories: know
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
-    🔗 <a href="https://lnkd.in/djqUuktk" style="color: #aad4ff; text-decoration: underline;">Link to the article</a>
+    🔗 <a href="https://www.nature.com/articles/s44220-026-00617-5" style="color: #aad4ff; text-decoration: underline;">Link to the article</a>
   </p>
 
   <p style="font-size: 1rem; font-style: italic; text-align: right; color: #cccccc;">— Joffrey Fuhrer</p>
