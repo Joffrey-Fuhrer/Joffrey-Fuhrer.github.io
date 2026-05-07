@@ -1,9 +1,6 @@
 ---
 categories: know
 ---
-<div style="font-family: 'Georgia', serif; background-color: #f9f6f1; padding: 2rem; border: 1px solid #d6ccc2; max-width: 700px; margin: auto; box-shadow: 0 0 10px #ccc;">
-  <h2 style="text-align: center; font-variant: small-caps; color: #3e2f1c;">What Are the Ingredients of Positive Mental Health?</h2>
-
   <p style="font-size: 1.1rem; line-height: 1.7; color: #4a3b2b;">
     If you were to think about what the ingredients of positive mental health are, what would come to mind? I personally would start by pondering whether positive mental health is synonymous with psychological well-being. But if I really HAD to give an answer without any prior clarification, I would probably treat them as synonyms, and say that according to my knowledge, one needs to experience one's life as meaningful, broadly understood as having a purpose leading to a sense of significance and that we are making a difference, alongside happiness, stable mood, and life satisfaction.
   </p>
