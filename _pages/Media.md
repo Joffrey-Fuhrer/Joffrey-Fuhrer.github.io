@@ -2,7 +2,7 @@
 permalink: /Media/
 title: "Media highlighting my work."
 ---
-<div style="max-width: 700px; margin: auto; padding: 2.5rem; font-family: Georgia, serif; line-height: 1.7; color: #222; background: rgba(255, 255, 255, 0.82); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.6); box-shadow: 0 4px 24px rgba(0, 0, 0, 0.07), 0 1px 4px rgba(0, 0, 0, 0.04);">
+<div style="max-width: 700px; margin: auto; padding: 2.5rem; font-family: Georgia, serif; line-height: 1.7; color: #222; background: rgba(255, 255, 255, 0.45); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.6); box-shadow: 0 4px 24px rgba(0, 0, 0, 0.07), 0 1px 4px rgba(0, 0, 0, 0.04);">
   <p><strong>Media highlighting my work.</strong></p>
   <p>
     <em>New Scientist</em>. "<a href="https://www.newscientist.com/article/2513875-how-to-live-a-meaningful-life-according-to-science/" style="color: #1a0dab;">How to Live a Meaningful Life, According to Science</a>." Article based on an interview and my research.
