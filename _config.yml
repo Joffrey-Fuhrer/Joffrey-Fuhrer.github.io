@@ -114,15 +114,16 @@ analytics:
 author:
   name             : "Dr Joffrey Fuhrer"
   avatar           : "/assets/images/image.jpg"  
-  bio              : "I am a researcher in psychology and philosophy (I like to call myself a psychosopher) interested in the good life, well-being, and scientific methodology."
+  bio              : "I am a French researcher dedicated to questions that touch us all: What makes our lives meaningful? What constitutes the key ingredients of our well-being? I like to call myself a psychosopher, as I mix scientific psychology rigor and philosophical depth in my work, because these big questions need both. I lead and co-lead several research projects on various themes including the effect of residential settings on well-being and meaning in life, the need for safety, or our perception of an ideal life.
+"
   location         : "French located in Finland"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:Joffrey.Fuhrer@uef.fi"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://bsky.app/profile/joffreyfuhrer.bsky.social"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joffrey-fuhrer-088a313a8/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Joffrey-Fuhrer"
