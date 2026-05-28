@@ -34,7 +34,7 @@ categories: know
   </p>
 
   <p style="font-size: 1.1rem; line-height: 1.7; color: #ffffff;">
-    🔗 <a href="https://lnkd.in/dxAcBFNJ" style="color: #aad4ff; text-decoration: underline;">Link to the article</a>
+    🔗 <a href="https://journals.sagepub.com/doi/abs/10.1177/19485506231197844" style="color: #aad4ff; text-decoration: underline;">Link to the article</a>
   </p>
 
   <p style="font-size: 1rem; font-style: italic; text-align: right; color: #cccccc;">— Joffrey Fuhrer</p>
